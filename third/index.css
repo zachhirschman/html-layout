@@ -1,0 +1,44 @@
+
+.big_top_container{
+    background-color:rgb(187, 190, 194);
+    height:80px;
+    width:100%
+}
+.lil_blue{
+    background-color:skyblue;
+    display:inline-block;
+    height:70px;
+    width:70px;
+    margin-left: 5px;
+    margin-top: 2.5px;
+}
+.word_block{
+    background-color: white;
+    height:260;
+    width:100%;
+    margin:50px;
+}
+.words{
+    text-align: center;
+}
+
+.first_bar{
+    background-color: rgba(82, 149, 204, 0.829);
+    height:120px;
+    width:100%;
+}
+.second_bar{
+    background-color: rgba(69, 205, 214, 0.829);
+    height:120px;
+    width:100%;
+}
+.third_bar{
+    background-color: rgba(82, 204, 143, 0.829);
+    height:120px;
+    width:100%;
+}
+.fourth_bar{
+    background-color: rgba(235, 204, 30, 0.829);
+    height:120px;
+    width:100%;
+}
